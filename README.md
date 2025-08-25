@@ -12,3 +12,6 @@
 
 ## Pandas Installation
 - pip install pandas
+
+## Matplotlib
+- pip install matplotlib
