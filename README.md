@@ -11,7 +11,10 @@
 
 
 ## Pandas Installation
-- pip install pandas
+- !pip install pandas
 
 ## Matplotlib
-- pip install matplotlib
+- !pip install matplotlib
+
+##Machine Learning
+- !pip install scikit-learn
